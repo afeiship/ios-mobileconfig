@@ -10,4 +10,3 @@
 
 ## resources:
 + https://oldcat.me/web/NOOTA9.mobileconfig
-+
