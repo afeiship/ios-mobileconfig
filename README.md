@@ -7,3 +7,4 @@
 
 ## resources
 - https://oldcat.me/web/NOOTA9.mobileconfig
+- https://wwa.lanzous.com/iWwoIdupg4d
